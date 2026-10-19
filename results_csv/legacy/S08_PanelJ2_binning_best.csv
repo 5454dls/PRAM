@@ -1,0 +1,12 @@
+﻿Measure,"Acute kidney injury, MIMIC-IV","Acute kidney injury, MIMIC-III","Acute kidney injury, eICU-CRD","168 h mortality, MIMIC-IV","168 h mortality, MIMIC-III","168 h mortality, eICU-CRD"
+"10 equal-width bins, the pre-specified measure recomputed",yes,yes,yes,yes,yes,yes
+5 equal-width bins,yes,no,no,yes,yes,yes
+15 equal-width bins,no,yes,yes,yes,yes,yes
+20 equal-width bins,no,yes,yes,yes,yes,yes
+50 equal-width bins,no,yes,yes,yes,yes,yes
+5 equal-count bins,yes,yes,yes,yes,yes,yes
+10 equal-count bins,no,no,yes,yes,no,yes
+15 equal-count bins,no,no,yes,yes,no,yes
+20 equal-count bins,no,no,yes,yes,yes,no
+50 equal-count bins,no,no,yes,no,no,no
+"Integrated calibration index, no bins",no,no,yes,no,yes,yes

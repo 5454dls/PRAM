@@ -1,0 +1,7 @@
+﻿Outcome,Target,Slope per tenfold increase,95% CI,p
+Acute kidney injury,MIMIC-IV,+0.0025,0.0022 to 0.0029,<0.0001
+Acute kidney injury,MIMIC-III,+0.0045,0.0041 to 0.0048,<0.0001
+Acute kidney injury,eICU-CRD,+0.0061,0.0056 to 0.0066,<0.0001
+168 h mortality,MIMIC-IV,+0.0021,0.0017 to 0.0025,<0.0001
+168 h mortality,MIMIC-III,+0.0041,0.0036 to 0.0047,<0.0001
+168 h mortality,eICU-CRD,+0.0130,0.0125 to 0.0136,<0.0001

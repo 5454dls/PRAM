@@ -1,0 +1,5 @@
+﻿Target,Outcome,Bank,Oldest first,Newest first,Random
+eICU-CRD,Acute kidney injury,"1,000",+0.0058,+0.0159,+0.0080
+eICU-CRD,168 h mortality,"1,000",+0.0155,+0.0224,+0.0119
+MIMIC-III,Acute kidney injury,"1,000",+0.0001,+0.0101,0.0000
+MIMIC-III,Acute kidney injury,"2,000",+0.0036,+0.0110,+0.0006

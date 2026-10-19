@@ -1,0 +1,17 @@
+﻿Outcome,Strategy,Median area,Median change from the frozen logistic model,Hospitals improved (%)
+Acute kidney injury,Frozen logistic,0.0016,+0.0000,0.0
+,Frozen gradient boosted,0.0006,-0.0006,28.4
+,Isotonic recalibration,0.0021,+0.0006,79.1
+,Retrieval on logistic,0.0022,+0.0005,88.1
+,Retrieval on gradient boosted,0.0016,+0.0001,56.7
+,Local logistic,0.0006,-0.0003,37.3
+,Local gradient boosted,0.0007,-0.0005,41.8
+,Pooled logistic,0.0018,+0.0003,92.5
+168 h mortality,Frozen logistic,0.0011,+0.0000,0.0
+,Frozen gradient boosted,0.0029,+0.0018,96.6
+,Isotonic recalibration,0.0015,+0.0007,78.0
+,Retrieval on logistic,0.0016,+0.0007,94.9
+,Retrieval on gradient boosted,0.0029,+0.0020,94.9
+,Local logistic,0.0018,+0.0008,67.8
+,Local gradient boosted,0.0013,+0.0004,66.1
+,Pooled logistic,0.0024,+0.0015,100.0

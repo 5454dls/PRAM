@@ -1,0 +1,5 @@
+﻿Outcome,Target,Frozen logistic,Frozen CatBoost,Isotonic recalibration,Retrieval on logistic,Retrieval on CatBoost,Local logistic,Pooled logistic,Local CatBoost,Retrieval on local logistic
+Acute kidney injury,MIMIC-IV,0.0398,0.0398,0.0403,0.0413,0.0393,0.0394,0.0399,0.0374,0.0404
+,MIMIC-III,0.0435,0.0473,0.0434,0.0467,0.0474,0.0440,0.0440,0.0463,0.0453
+168 h mortality,MIMIC-IV,0.0077,0.0096,0.0071,0.0078,0.0095,0.0074,0.0074,0.0083,0.0073
+,MIMIC-III,0.0058,0.0088,0.0061,0.0061,0.0087,0.0060,0.0056,0.0081,0.0062

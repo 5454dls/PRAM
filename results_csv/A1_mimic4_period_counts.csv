@@ -1,0 +1,21 @@
+﻿assignment,rule,outcome,period,cohort_stays,cohort_events,in_cohort
+unit-transfer adjusted,strict,AKI_168h,2008-2010,5726,884,True
+unit-transfer adjusted,strict,AKI_168h,2011-2013,6483,982,True
+unit-transfer adjusted,strict,AKI_168h,2014-2016,7362,1068,True
+unit-transfer adjusted,strict,AKI_168h,2017-2019,7416,1045,True
+unit-transfer adjusted,strict,AKI_168h,not assigned,6468,suppressed,False
+unit-transfer adjusted,strict,mortality_168h,2008-2010,5726,266,True
+unit-transfer adjusted,strict,mortality_168h,2011-2013,6483,276,True
+unit-transfer adjusted,strict,mortality_168h,2014-2016,7362,333,True
+unit-transfer adjusted,strict,mortality_168h,2017-2019,7416,290,True
+unit-transfer adjusted,strict,mortality_168h,not assigned,6468,suppressed,False
+unit-transfer adjusted,majority,AKI_168h,2008-2010,6734,1053,True
+unit-transfer adjusted,majority,AKI_168h,2011-2013,8177,1214,True
+unit-transfer adjusted,majority,AKI_168h,2014-2016,9169,1318,True
+unit-transfer adjusted,majority,AKI_168h,2017-2019,9316,1319,True
+unit-transfer adjusted,majority,AKI_168h,not assigned,59,suppressed,False
+unit-transfer adjusted,majority,mortality_168h,2008-2010,6734,313,True
+unit-transfer adjusted,majority,mortality_168h,2011-2013,8177,359,True
+unit-transfer adjusted,majority,mortality_168h,2014-2016,9169,413,True
+unit-transfer adjusted,majority,mortality_168h,2017-2019,9316,370,True
+unit-transfer adjusted,majority,mortality_168h,not assigned,59,suppressed,False

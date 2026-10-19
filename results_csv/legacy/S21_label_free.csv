@@ -1,0 +1,6 @@
+﻿Target,Outcome,Bank,Label-free smoothing,Retrieval with labels
+eICU-CRD,Acute kidney injury,"1,000",+0.0107,+0.0045
+eICU-CRD,Acute kidney injury,"5,000",+0.0103,+0.0124
+eICU-CRD,168 h mortality,"1,000",+0.0207,+0.0174
+eICU-CRD,168 h mortality,"5,000",+0.0213,+0.0264
+MIMIC-IV,168 h mortality,Full,-0.0058,+0.0042

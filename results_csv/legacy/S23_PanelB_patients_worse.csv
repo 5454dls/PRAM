@@ -1,0 +1,4 @@
+﻿Setting,Fixed weight,Adaptive weight
+"MIMIC-IV acute kidney injury, bank 5,000",49.1%,26.0%
+"MIMIC-IV acute kidney injury, full bank",47.1%,28.3%
+"MIMIC-III mortality, full bank",34.2%,29.1%

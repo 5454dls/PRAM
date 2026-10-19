@@ -1,0 +1,17 @@
+﻿fs,outcome,pair,difference,n,dAUROC,dAUROC_lo,dAUROC_hi,dECE,dECE_lo,dECE_hi,dNB,dNB_lo,dNB_hi,n_boot
+F42,AKI_168h,P1,"AUROC selection (0 to 1.00) - AUROC selection (0 to 0.50) (upper end of the grid, AUROC selection)",68041,0,0,0,0,0,0,0,0,0,5000
+F42,AKI_168h,P2,"log loss selection (0 to 1.00) - log loss selection (0 to 0.50) (upper end of the grid, log loss selection)",68041,-0.00457061,-0.00610567,-0.00303554,-0.00669306,-0.00676649,-0.00583006,0.000377119,-6.03516e-05,0.000800573,5000
+F42,AKI_168h,P3,"log loss selection (0 to 0.50) - fixed weight 0.50 (selection rule, log loss selection versus fixed 0.50)",68041,0,0,0,0,0,0,0,0,0,5000
+F42,AKI_168h,P4,"AUROC selection (0 to 0.50) - fixed weight 0.50 (selection rule, AUROC selection versus fixed 0.50, descriptive)",68041,0.000191437,-0.0003016,0.000684475,0.00223621,0.00220326,0.00228348,-0.000335843,-0.000555688,-9.66095e-05,5000
+F42,mortality_168h,P1,"AUROC selection (0 to 1.00) - AUROC selection (0 to 0.50) (upper end of the grid, AUROC selection)",68041,0.00652851,0.00440822,0.00864881,-0.0126223,-0.0131392,-0.0120138,0.00489043,0.004196,0.00561426,5000
+F42,mortality_168h,P2,"log loss selection (0 to 1.00) - log loss selection (0 to 0.50) (upper end of the grid, log loss selection)",68041,0.00680043,0.00454063,0.00906024,-0.0133491,-0.0138435,-0.0125998,0.00513293,0.00441645,0.00589727,5000
+F42,mortality_168h,P3,"log loss selection (0 to 0.50) - fixed weight 0.50 (selection rule, log loss selection versus fixed 0.50)",68041,0,0,0,0,0,0,0,0,0,5000
+F42,mortality_168h,P4,"AUROC selection (0 to 0.50) - fixed weight 0.50 (selection rule, AUROC selection versus fixed 0.50, descriptive)",68041,0,0,0,0,0,0,0,0,0,5000
+F33,AKI_168h,P1,"AUROC selection (0 to 1.00) - AUROC selection (0 to 0.50) (upper end of the grid, AUROC selection)",68041,0,0,0,0,0,0,0,0,0,5000
+F33,AKI_168h,P2,"log loss selection (0 to 1.00) - log loss selection (0 to 0.50) (upper end of the grid, log loss selection)",68041,-0.00215879,-0.00262666,-0.00169093,-0.00196057,-0.00238029,-0.00160081,0.000412142,0.000189185,0.000622919,5000
+F33,AKI_168h,P3,"log loss selection (0 to 0.50) - fixed weight 0.50 (selection rule, log loss selection versus fixed 0.50)",68041,0,0,0,0,0,0,0,0,0,5000
+F33,AKI_168h,P4,"AUROC selection (0 to 0.50) - fixed weight 0.50 (selection rule, AUROC selection versus fixed 0.50, descriptive)",68041,0.00262763,0.00103945,0.00421582,0.00536955,0.00480336,0.00617104,-0.00148471,-0.00188968,-0.00105317,5000
+F33,mortality_168h,P1,"AUROC selection (0 to 1.00) - AUROC selection (0 to 0.50) (upper end of the grid, AUROC selection)",68041,0,0,0,0,0,0,0,0,0,5000
+F33,mortality_168h,P2,"log loss selection (0 to 1.00) - log loss selection (0 to 0.50) (upper end of the grid, log loss selection)",68041,-0.00159667,-0.00229105,-0.000902289,-0.00266164,-0.00279744,-0.00247613,0.000440911,4.0325e-05,0.000834056,5000
+F33,mortality_168h,P3,"log loss selection (0 to 0.50) - fixed weight 0.50 (selection rule, log loss selection versus fixed 0.50)",68041,0,0,0,0,0,0,0,0,0,5000
+F33,mortality_168h,P4,"AUROC selection (0 to 0.50) - fixed weight 0.50 (selection rule, AUROC selection versus fixed 0.50, descriptive)",68041,0.000258411,-0.00019736,0.000714183,0.00178367,0.00165754,0.00191857,-0.000775268,-0.00104349,-0.000510721,5000

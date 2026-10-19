@@ -1,0 +1,17 @@
+# outputs written by the notebooks and scripts
+out_pram/
+out_pram_*/
+out_claims/
+figure_out/
+*.zip
+
+# input data (never commit): prepared inputs and the database releases
+prepared_data/
+mimic4_raw/
+eicu_raw/
+*.parquet
+
+# python
+__pycache__/
+.ipynb_checkpoints/
+.venv/

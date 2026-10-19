@@ -1,0 +1,73 @@
+﻿Outcome,Target,Bank rule,Bank size,Bank prevalence (%),Mixing weight,Change in AUROC,SD
+Acute kidney injury,MIMIC-III,Cluster representatives,300,15.3,0.10,-0.0013,0.0028
+,MIMIC-III,Cluster representatives,"1,000",17.2,0.23,0.0027,0.0025
+,MIMIC-III,Cluster representatives,"5,000",17.3,0.37,0.0074,0.0046
+,MIMIC-III,Coverage of the feature space,300,22.0,0.17,0.0020,0.0022
+,MIMIC-III,Coverage of the feature space,"1,000",20.5,0.20,0.0009,0.0044
+,MIMIC-III,Coverage of the feature space,"5,000",17.3,0.44,0.0106,0.0047
+,MIMIC-III,Least certain under the frozen model,300,53.5,0.40,-0.0192,0.0037
+,MIMIC-III,Least certain under the frozen model,"1,000",47.3,0.50,-0.0141,0.0201
+,MIMIC-III,Least certain under the frozen model,"5,000",25.9,0.40,0.0065,0.0050
+,MIMIC-III,Most recent,300,17.2,0.15,0.0019,0.0036
+,MIMIC-III,Most recent,"1,000",16.8,0.27,0.0065,0.0023
+,MIMIC-III,Most recent,"5,000",16.2,0.35,0.0087,0.0026
+,MIMIC-III,Prevalence balanced,300,50.0,0.21,0.0031,0.0039
+,MIMIC-III,Prevalence balanced,"1,000",50.0,0.22,0.0047,0.0038
+,MIMIC-III,Prevalence balanced,"5,000",37.4,0.36,0.0107,0.0032
+,MIMIC-III,Random,300,16.0,0.20,0.0011,0.0012
+,MIMIC-III,Random,"1,000",16.1,0.25,0.0026,0.0025
+,MIMIC-III,Random,"5,000",16.1,0.43,0.0080,0.0043
+,eICU-CRD,Cluster representatives,300,7.6,0.28,0.0035,0.0060
+,eICU-CRD,Cluster representatives,"1,000",8.6,0.40,0.0130,0.0022
+,eICU-CRD,Cluster representatives,"5,000",8.4,0.50,0.0228,0.0035
+,eICU-CRD,Coverage of the feature space,300,13.8,0.36,-0.0220,0.0158
+,eICU-CRD,Coverage of the feature space,"1,000",12.3,0.43,0.0022,0.0063
+,eICU-CRD,Coverage of the feature space,"5,000",9.6,0.49,0.0210,0.0053
+,eICU-CRD,Least certain under the frozen model,300,26.1,0.47,0.0021,0.0195
+,eICU-CRD,Least certain under the frozen model,"1,000",25.8,0.50,-0.0210,0.0090
+,eICU-CRD,Least certain under the frozen model,"5,000",17.9,0.49,0.0148,0.0079
+,eICU-CRD,Most recent,300,5.9,0.34,0.0025,0.0059
+,eICU-CRD,Most recent,"1,000",6.4,0.35,0.0071,0.0049
+,eICU-CRD,Most recent,"5,000",6.5,0.50,0.0175,0.0039
+,eICU-CRD,Prevalence balanced,300,50.0,0.16,0.0049,0.0071
+,eICU-CRD,Prevalence balanced,"1,000",50.0,0.27,0.0194,0.0026
+,eICU-CRD,Prevalence balanced,"5,000",50.0,0.29,0.0254,0.0030
+,eICU-CRD,Random,300,6.0,0.29,0.0032,0.0032
+,eICU-CRD,Random,"1,000",6.1,0.23,0.0049,0.0048
+,eICU-CRD,Random,"5,000",6.1,0.45,0.0175,0.0053
+168 h mortality,MIMIC-III,Cluster representatives,300,6.9,0.10,-0.0007,0.0025
+,MIMIC-III,Cluster representatives,"1,000",8.9,0.17,0.0016,0.0031
+,MIMIC-III,Cluster representatives,"5,000",8.1,0.19,0.0059,0.0038
+,MIMIC-III,Coverage of the feature space,300,18.3,0.19,-0.0063,0.0098
+,MIMIC-III,Coverage of the feature space,"1,000",14.5,0.22,-0.0011,0.0016
+,MIMIC-III,Coverage of the feature space,"5,000",8.5,0.20,0.0058,0.0036
+,MIMIC-III,Least certain under the frozen model,300,32.3,0.47,-0.1252,0.0453
+,MIMIC-III,Least certain under the frozen model,"1,000",25.5,0.43,-0.0558,0.0444
+,MIMIC-III,Least certain under the frozen model,"5,000",10.1,0.27,0.0030,0.0044
+,MIMIC-III,Most recent,300,4.3,0.08,0.0001,0.0001
+,MIMIC-III,Most recent,"1,000",4.4,0.15,0.0013,0.0023
+,MIMIC-III,Most recent,"5,000",4.8,0.11,0.0031,0.0021
+,MIMIC-III,Prevalence balanced,300,50.0,0.05,0.0021,0.0012
+,MIMIC-III,Prevalence balanced,"1,000",50.0,0.04,0.0023,0.0027
+,MIMIC-III,Prevalence balanced,"5,000",11.0,0.09,0.0044,0.0032
+,MIMIC-III,Random,300,4.7,0.10,-0.0009,0.0031
+,MIMIC-III,Random,"1,000",4.7,0.12,0.0005,0.0019
+,MIMIC-III,Random,"5,000",4.7,0.14,0.0034,0.0026
+,eICU-CRD,Cluster representatives,300,8.5,0.27,0.0089,0.0061
+,eICU-CRD,Cluster representatives,"1,000",8.7,0.43,0.0251,0.0054
+,eICU-CRD,Cluster representatives,"5,000",9.1,0.50,0.0323,0.0033
+,eICU-CRD,Coverage of the feature space,300,22.5,0.50,0.0060,0.0082
+,eICU-CRD,Coverage of the feature space,"1,000",18.1,0.50,0.0117,0.0096
+,eICU-CRD,Coverage of the feature space,"5,000",10.1,0.50,0.0316,0.0036
+,eICU-CRD,Least certain under the frozen model,300,15.0,0.50,0.0220,0.0103
+,eICU-CRD,Least certain under the frozen model,"1,000",15.8,0.50,0.0253,0.0078
+,eICU-CRD,Least certain under the frozen model,"5,000",15.8,0.50,0.0378,0.0070
+,eICU-CRD,Most recent,300,5.1,0.28,0.0094,0.0087
+,eICU-CRD,Most recent,"1,000",5.0,0.50,0.0149,0.0025
+,eICU-CRD,Most recent,"5,000",5.5,0.50,0.0267,0.0029
+,eICU-CRD,Prevalence balanced,300,50.0,0.40,0.0258,0.0083
+,eICU-CRD,Prevalence balanced,"1,000",50.0,0.50,0.0398,0.0071
+,eICU-CRD,Prevalence balanced,"5,000",50.0,0.50,0.0444,0.0065
+,eICU-CRD,Random,300,4.7,0.38,0.0092,0.0097
+,eICU-CRD,Random,"1,000",4.6,0.40,0.0194,0.0083
+,eICU-CRD,Random,"5,000",4.6,0.50,0.0300,0.0049

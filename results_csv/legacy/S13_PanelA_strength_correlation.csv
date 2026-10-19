@@ -1,0 +1,5 @@
+﻿Outcome,Units,Mean rho,SD,Range
+Acute kidney injury,5 base models,-0.727,0.121,-0.90 to -0.50
+,15 combinations,-0.692,0.105,-0.86 to -0.51
+168 h mortality,5 base models,-0.800,0.141,-1.00 to -0.50
+,15 combinations,-0.836,0.062,-0.93 to -0.77

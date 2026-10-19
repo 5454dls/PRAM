@@ -1,0 +1,9 @@
+﻿Outcome,Network,Combiner,Definitions,Pairwise correlation,Delta AUROC,Hospitals improved
+Acute kidney injury,"Homogeneous, cosine",Mean,1,0.365,+0.0185,79%
+,"Homogeneous, forest proximity",Mean,1,0.324,+0.0195,78%
+,"Heterogeneous, assigned in turn",Mean,5,0.246,+0.0198,79%
+,"Heterogeneous, assigned at random",Mean,5,0.230,+0.0189,79%
+168 h mortality,"Homogeneous, cosine",Mean,1,0.605,+0.0234,80%
+,"Homogeneous, forest proximity",Mean,1,0.465,+0.0213,75%
+,"Heterogeneous, assigned in turn",Mean,5,0.391,+0.0223,80%
+,"Heterogeneous, assigned at random",Mean,5,0.398,+0.0242,78%

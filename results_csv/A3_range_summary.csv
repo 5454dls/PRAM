@@ -1,0 +1,9 @@
+﻿fs,outcome,range,lo,hi,n_hospitals,disagree_at_20,disagree_mean_in_range,winner_changes_median,winner_changes_max,area_winner_equals_auroc_winner,pct_hospitals_pram_b1_area_gt_frozen
+F42,AKI_168h,single range 2 to 30 percent,0.02,0.3,67,0.776119,0.786927,11,24,0.328358,86.5672
+F42,AKI_168h,outcome-specific range,0.02,0.1,67,0.776119,0.782753,4,7,0.313433,86.5672
+F42,mortality_168h,single range 2 to 30 percent,0.02,0.3,59,0.677966,0.667446,10,17,0.389831,96.6102
+F42,mortality_168h,outcome-specific range,0.1,0.3,59,0.677966,0.690073,6,12,0.322034,98.3051
+F33,AKI_168h,single range 2 to 30 percent,0.02,0.3,67,0.791045,0.781266,12,21,0.298507,80.597
+F33,AKI_168h,outcome-specific range,0.02,0.1,67,0.791045,0.791045,3,8,0.298507,92.5373
+F33,mortality_168h,single range 2 to 30 percent,0.02,0.3,59,0.847458,0.790181,11,19,0.271186,69.4915
+F33,mortality_168h,outcome-specific range,0.1,0.3,59,0.847458,0.80226,7,13,0.169492,72.8814

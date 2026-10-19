@@ -1,0 +1,17 @@
+﻿Outcome,Strategy,Hospitals,Pooled delta AUROC,Hospitals improved,Calibration slope,Net benefit at 0.20
+Acute kidney injury,Frozen logistic,67,reference,,,
+,Frozen CatBoost,67,+0.0077,49%,0.843,-0.0051
+,Isotonic recalibration,67,-0.0267,0%,0.235,0.0000
+,Retrieval on logistic,67,+0.0092,61%,1.020,+0.0012
+,Retrieval on CatBoost,67,+0.0140,57%,1.006,-0.0021
+,Local logistic,67,-0.0499,15%,0.326,-0.0037
+,Pooled logistic,67,+0.0068,79%,0.962,+0.0003
+,Local CatBoost,67,-0.0368,25%,0.439,-0.0004
+168 h mortality,Frozen logistic,59,reference,,,
+,Frozen CatBoost,59,+0.0486,95%,0.793,+0.0029
+,Isotonic recalibration,59,-0.0232,0%,0.371,-0.0005
+,Retrieval on logistic,59,+0.0201,76%,0.731,-0.0018
+,Retrieval on CatBoost,59,+0.0484,90%,0.884,+0.0031
+,Local logistic,59,-0.0272,36%,0.428,+0.0011
+,Pooled logistic,59,+0.0302,93%,0.687,+0.0019
+,Local CatBoost,59,+0.0146,56%,0.635,+0.0011

@@ -1,0 +1,5 @@
+﻿outcome,target,cohort_n,stored_obs_rate,candidates_after_prevalence_filter,N_hat,status,reason,uncapped,best_diff,second_diff,N_hat_in_logged
+AKI_168h,eICU,68041,0.06092081743079376,3,20699,confirmed,all three conditions met,False,0,0.0123104,[]
+AKI_168h,MIMIC-III,14514,0.16108584814661706,2,14514,confirmed,all three conditions met,True,0,0.0227062,[]
+mortality_168h,eICU,68041,0.04646121948920931,2,21222,confirmed,all three conditions met,False,0,0.0525422,[]
+mortality_168h,MIMIC-III,14514,0.04740250792338432,2,14514,confirmed,all three conditions met,True,0,0.106018,[]

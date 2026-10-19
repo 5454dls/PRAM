@@ -1,0 +1,3 @@
+﻿outcome,d_auroc_median_F42,pct_improved_F42,slope_median_F42,d_ece_median_F42,d_nb_rep_median_F42,d_auroc_median_F33,pct_improved_F33,slope_median_F33,d_ece_median_F33,d_nb_rep_median_F33
+AKI_168h,0.0167931,83.5821,1.05944,-0.00959804,0.00242392,0.010101,76.1194,1.4115,-0.00710827,0.00314654
+mortality_168h,0.0173611,88.1356,0.756895,-0.0117947,0.00307377,0.00428571,69.4915,1.00187,-0.0061834,0.00153374

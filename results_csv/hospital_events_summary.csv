@@ -1,0 +1,3 @@
+﻿outcome,hospitals,test_folds,events_min,events_q25,events_median,events_q75,events_max,share_folds_below_10
+AKI_168h,67,201,5,9,13,22,47,0.278607
+mortality_168h,59,177,5,8,11,15,43,0.384181

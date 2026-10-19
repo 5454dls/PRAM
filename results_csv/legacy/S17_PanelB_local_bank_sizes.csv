@@ -1,0 +1,11 @@
+﻿Outcome,Local patients,Network delta,Network improved,Network slope,Own bank delta,Own bank improved
+Acute kidney injury,0,+0.0168,84%,1.058,not available,not available
+,100,+0.0108,76%,1.101,+0.0035,61%
+,300,+0.0173,84%,1.177,+0.0111,72%
+,"1,000",+0.0197,78%,1.177,+0.0080,66%
+,full pool,+0.0198,78%,1.177,+0.0082,67%
+168 h mortality,0,+0.0174,88%,0.757,not available,not available
+,100,+0.0207,86%,0.926,+0.0112,66%
+,300,+0.0249,85%,0.922,+0.0249,78%
+,"1,000",+0.0253,83%,0.928,+0.0203,76%
+,full pool,+0.0255,83%,0.928,+0.0203,76%

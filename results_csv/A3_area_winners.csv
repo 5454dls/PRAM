@@ -1,0 +1,60 @@
+﻿fs,outcome,range,area_winner,hospitals
+F42,AKI_168h,single range 2 to 30 percent,recal_iso,25
+F42,AKI_168h,single range 2 to 30 percent,pooled_lr,14
+F42,AKI_168h,single range 2 to 30 percent,pram_b5,8
+F42,AKI_168h,single range 2 to 30 percent,pram_b1,6
+F42,AKI_168h,single range 2 to 30 percent,local_lr,5
+F42,AKI_168h,single range 2 to 30 percent,local_cb,5
+F42,AKI_168h,single range 2 to 30 percent,b5_base,3
+F42,AKI_168h,single range 2 to 30 percent,b1_base,1
+F42,AKI_168h,outcome-specific range,recal_iso,29
+F42,AKI_168h,outcome-specific range,pram_b5,11
+F42,AKI_168h,outcome-specific range,pram_b1,10
+F42,AKI_168h,outcome-specific range,local_lr,8
+F42,AKI_168h,outcome-specific range,b5_base,7
+F42,AKI_168h,outcome-specific range,pooled_lr,2
+F42,mortality_168h,single range 2 to 30 percent,pram_b5,26
+F42,mortality_168h,single range 2 to 30 percent,b5_base,14
+F42,mortality_168h,single range 2 to 30 percent,pooled_lr,8
+F42,mortality_168h,single range 2 to 30 percent,local_cb,5
+F42,mortality_168h,single range 2 to 30 percent,recal_iso,3
+F42,mortality_168h,single range 2 to 30 percent,local_lr,2
+F42,mortality_168h,single range 2 to 30 percent,pram_b1,1
+F42,mortality_168h,outcome-specific range,pram_b5,16
+F42,mortality_168h,outcome-specific range,b5_base,12
+F42,mortality_168h,outcome-specific range,local_cb,11
+F42,mortality_168h,outcome-specific range,local_lr,7
+F42,mortality_168h,outcome-specific range,pooled_lr,6
+F42,mortality_168h,outcome-specific range,recal_iso,6
+F42,mortality_168h,outcome-specific range,pram_b1,1
+F33,AKI_168h,single range 2 to 30 percent,recal_iso,27
+F33,AKI_168h,single range 2 to 30 percent,pram_b1,14
+F33,AKI_168h,single range 2 to 30 percent,pooled_lr,8
+F33,AKI_168h,single range 2 to 30 percent,local_lr,6
+F33,AKI_168h,single range 2 to 30 percent,pram_b5,6
+F33,AKI_168h,single range 2 to 30 percent,local_cb,4
+F33,AKI_168h,single range 2 to 30 percent,b1_base,2
+F33,AKI_168h,outcome-specific range,recal_iso,29
+F33,AKI_168h,outcome-specific range,pram_b5,14
+F33,AKI_168h,outcome-specific range,local_lr,8
+F33,AKI_168h,outcome-specific range,b5_base,6
+F33,AKI_168h,outcome-specific range,pram_b1,5
+F33,AKI_168h,outcome-specific range,local_cb,2
+F33,AKI_168h,outcome-specific range,pooled_lr,2
+F33,AKI_168h,outcome-specific range,b1_base,1
+F33,mortality_168h,single range 2 to 30 percent,recal_iso,13
+F33,mortality_168h,single range 2 to 30 percent,pram_b5,13
+F33,mortality_168h,single range 2 to 30 percent,pooled_lr,10
+F33,mortality_168h,single range 2 to 30 percent,b5_base,7
+F33,mortality_168h,single range 2 to 30 percent,local_lr,7
+F33,mortality_168h,single range 2 to 30 percent,pram_b1,4
+F33,mortality_168h,single range 2 to 30 percent,local_cb,4
+F33,mortality_168h,single range 2 to 30 percent,b1_base,1
+F33,mortality_168h,outcome-specific range,recal_iso,11
+F33,mortality_168h,outcome-specific range,local_cb,10
+F33,mortality_168h,outcome-specific range,local_lr,8
+F33,mortality_168h,outcome-specific range,pram_b5,8
+F33,mortality_168h,outcome-specific range,b5_base,7
+F33,mortality_168h,outcome-specific range,pram_b1,7
+F33,mortality_168h,outcome-specific range,pooled_lr,6
+F33,mortality_168h,outcome-specific range,b1_base,2

@@ -1,0 +1,11 @@
+﻿fs,pair,n_cells,NI_margin_0.005,NI_margin_0.01,NI_margin_0.02
+F42,pram_b1|b1_base,30,30,30,30
+F42,pram_b5|b5_base,30,30,30,30
+F42,pram_platt_b1|b1_base,30,30,30,30
+F42,pram_platt_b5|b5_base,30,29,30,30
+F42,platt_b1|b1_base,30,30,30,30
+F33,pram_b1|b1_base,30,30,30,30
+F33,pram_b5|b5_base,30,30,30,30
+F33,pram_platt_b1|b1_base,30,30,30,30
+F33,pram_platt_b5|b5_base,30,28,30,30
+F33,platt_b1|b1_base,30,30,30,30

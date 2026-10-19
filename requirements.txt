@@ -1,0 +1,17 @@
+# Python 3.11
+# "pinned" = the tested version.
+# scipy>=1.7 is the minimum that has scipy.stats.binomtest (used by code/aggregate_claims.py).
+numpy==2.4.6                   # pinned
+pandas==2.3.3                  # pinned
+scikit-learn==1.9.0            # pinned
+scipy>=1.7
+catboost
+pyarrow                        # reads the parquet input files
+matplotlib                     # figure scripts in code/figures
+jupyterlab                     # or any other Jupyter front end, to open the notebooks
+# TabPFN section only (notebook 01, section A9). The notebook selects the v2 weights explicitly;
+# the weight file used is tabpfn-v2-classifier-finetuned-zk73skhh.ckpt
+tabpfn==9.1.0                  # pinned (optional)
+# optional, used for resource printouts when present
+psutil
+threadpoolctl

@@ -1,0 +1,97 @@
+﻿Outcome,Target,Bank,Method,AUROC,Expected calibration error,Net benefit at 0.20
+Acute kidney injury,MIMIC-IV,500,Frozen logistic model,0.7390,0.0145,+0.0398
+,MIMIC-IV,500,Beta calibration,0.7391,0.0205,+0.0392
+,MIMIC-IV,500,Importance-weighted retraining,0.7328,0.0176,+0.0370
+,MIMIC-IV,500,PRAM,0.7392,0.0185,+0.0405
+,MIMIC-IV,"1,000",Frozen logistic model,0.7390,0.0145,+0.0398
+,MIMIC-IV,"1,000",Beta calibration,0.7390,0.0189,+0.0406
+,MIMIC-IV,"1,000",Importance-weighted retraining,0.7330,0.0183,+0.0368
+,MIMIC-IV,"1,000",PRAM,0.7389,0.0239,+0.0393
+,MIMIC-IV,"5,000",Frozen logistic model,0.7390,0.0145,+0.0398
+,MIMIC-IV,"5,000",Beta calibration,0.7390,0.0177,+0.0407
+,MIMIC-IV,"5,000",Importance-weighted retraining,0.7383,0.0160,+0.0396
+,MIMIC-IV,"5,000",PRAM,0.7438,0.0204,+0.0407
+,MIMIC-IV,full pool,Frozen logistic model,0.7390,0.0145,+0.0398
+,MIMIC-IV,full pool,Beta calibration,0.7390,0.0173,+0.0403
+,MIMIC-IV,full pool,Importance-weighted retraining,0.7391,0.0149,+0.0398
+,MIMIC-IV,full pool,PRAM,0.7443,0.0213,+0.0408
+,MIMIC-III,500,Frozen logistic model,0.7229,0.0135,+0.0435
+,MIMIC-III,500,Beta calibration,0.7221,0.0208,+0.0423
+,MIMIC-III,500,Importance-weighted retraining,0.7175,0.0196,+0.0427
+,MIMIC-III,500,PRAM,0.7257,0.0222,+0.0447
+,MIMIC-III,"1,000",Frozen logistic model,0.7229,0.0135,+0.0435
+,MIMIC-III,"1,000",Beta calibration,0.7229,0.0185,+0.0432
+,MIMIC-III,"1,000",Importance-weighted retraining,0.7147,0.0160,+0.0409
+,MIMIC-III,"1,000",PRAM,0.7267,0.0237,+0.0449
+,MIMIC-III,"5,000",Frozen logistic model,0.7229,0.0135,+0.0435
+,MIMIC-III,"5,000",Beta calibration,0.7229,0.0131,+0.0426
+,MIMIC-III,"5,000",Importance-weighted retraining,0.7128,0.0168,+0.0398
+,MIMIC-III,"5,000",PRAM,0.7330,0.0218,+0.0466
+,MIMIC-III,full pool,Frozen logistic model,0.7229,0.0135,+0.0435
+,MIMIC-III,full pool,Beta calibration,0.7229,0.0140,+0.0428
+,MIMIC-III,full pool,Importance-weighted retraining,0.7132,0.0185,+0.0405
+,MIMIC-III,full pool,PRAM,0.7338,0.0219,+0.0467
+,eICU-CRD,500,Frozen logistic model,0.6904,0.0426,-0.0015
+,eICU-CRD,500,Beta calibration,0.6860,0.0067,+0.0006
+,eICU-CRD,500,Importance-weighted retraining,0.6635,0.0418,-0.0038
+,eICU-CRD,500,PRAM,0.6921,0.0399,-0.0009
+,eICU-CRD,"1,000",Frozen logistic model,0.6904,0.0426,-0.0015
+,eICU-CRD,"1,000",Beta calibration,0.6904,0.0046,+0.0018
+,eICU-CRD,"1,000",Importance-weighted retraining,0.6449,0.0426,-0.0060
+,eICU-CRD,"1,000",PRAM,0.6978,0.0305,+0.0006
+,eICU-CRD,"5,000",Frozen logistic model,0.6904,0.0426,-0.0015
+,eICU-CRD,"5,000",Beta calibration,0.6904,0.0053,+0.0015
+,eICU-CRD,"5,000",Importance-weighted retraining,0.6392,0.0496,-0.0097
+,eICU-CRD,"5,000",PRAM,0.7048,0.0237,+0.0014
+,eICU-CRD,full pool,Frozen logistic model,0.6904,0.0426,-0.0015
+,eICU-CRD,full pool,Beta calibration,0.6904,0.0039,+0.0016
+,eICU-CRD,full pool,Importance-weighted retraining,0.6600,0.0580,-0.0097
+,eICU-CRD,full pool,PRAM,0.7098,0.0216,+0.0017
+168 h mortality,MIMIC-IV,500,Frozen logistic model,0.8836,0.0093,+0.0077
+,MIMIC-IV,500,Beta calibration,0.8835,0.0080,+0.0080
+,MIMIC-IV,500,Importance-weighted retraining,0.8819,0.0081,+0.0075
+,MIMIC-IV,500,PRAM,0.8844,0.0088,+0.0079
+,MIMIC-IV,"1,000",Frozen logistic model,0.8836,0.0093,+0.0077
+,MIMIC-IV,"1,000",Beta calibration,0.8835,0.0081,+0.0071
+,MIMIC-IV,"1,000",Importance-weighted retraining,0.8824,0.0088,+0.0077
+,MIMIC-IV,"1,000",PRAM,0.8822,0.0091,+0.0079
+,MIMIC-IV,"5,000",Frozen logistic model,0.8836,0.0093,+0.0077
+,MIMIC-IV,"5,000",Beta calibration,0.8836,0.0084,+0.0069
+,MIMIC-IV,"5,000",Importance-weighted retraining,0.8832,0.0082,+0.0075
+,MIMIC-IV,"5,000",PRAM,0.8867,0.0086,+0.0079
+,MIMIC-IV,full pool,Frozen logistic model,0.8836,0.0093,+0.0077
+,MIMIC-IV,full pool,Beta calibration,0.8836,0.0079,+0.0069
+,MIMIC-IV,full pool,Importance-weighted retraining,0.8838,0.0082,+0.0080
+,MIMIC-IV,full pool,PRAM,0.8872,0.0078,+0.0077
+,MIMIC-III,500,Frozen logistic model,0.8600,0.0149,+0.0058
+,MIMIC-III,500,Beta calibration,0.8540,0.0086,+0.0055
+,MIMIC-III,500,Importance-weighted retraining,0.8566,0.0140,+0.0056
+,MIMIC-III,500,PRAM,0.8587,0.0119,+0.0054
+,MIMIC-III,"1,000",Frozen logistic model,0.8600,0.0149,+0.0058
+,MIMIC-III,"1,000",Beta calibration,0.8560,0.0058,+0.0051
+,MIMIC-III,"1,000",Importance-weighted retraining,0.8516,0.0140,+0.0052
+,MIMIC-III,"1,000",PRAM,0.8609,0.0141,+0.0054
+,MIMIC-III,"5,000",Frozen logistic model,0.8600,0.0149,+0.0058
+,MIMIC-III,"5,000",Beta calibration,0.8576,0.0058,+0.0058
+,MIMIC-III,"5,000",Importance-weighted retraining,0.8389,0.0154,+0.0049
+,MIMIC-III,"5,000",PRAM,0.8663,0.0119,+0.0061
+,MIMIC-III,full pool,Frozen logistic model,0.8600,0.0149,+0.0058
+,MIMIC-III,full pool,Beta calibration,0.8585,0.0047,+0.0059
+,MIMIC-III,full pool,Importance-weighted retraining,0.8375,0.0158,+0.0044
+,MIMIC-III,full pool,PRAM,0.8674,0.0116,+0.0060
+,eICU-CRD,500,Frozen logistic model,0.7745,0.0433,-0.0069
+,eICU-CRD,500,Beta calibration,0.7745,0.0052,-0.0002
+,eICU-CRD,500,Importance-weighted retraining,0.7668,0.0272,-0.0031
+,eICU-CRD,500,PRAM,0.7904,0.0297,-0.0043
+,eICU-CRD,"1,000",Frozen logistic model,0.7745,0.0433,-0.0069
+,eICU-CRD,"1,000",Beta calibration,0.7696,0.0075,-0.0012
+,eICU-CRD,"1,000",Importance-weighted retraining,0.7475,0.0347,-0.0053
+,eICU-CRD,"1,000",PRAM,0.7940,0.0273,-0.0035
+,eICU-CRD,"5,000",Frozen logistic model,0.7745,0.0433,-0.0069
+,eICU-CRD,"5,000",Beta calibration,0.7738,0.0041,-0.0004
+,eICU-CRD,"5,000",Importance-weighted retraining,0.7302,0.0493,-0.0094
+,eICU-CRD,"5,000",PRAM,0.8037,0.0223,-0.0020
+,eICU-CRD,full pool,Frozen logistic model,0.7745,0.0433,-0.0069
+,eICU-CRD,full pool,Beta calibration,0.7745,0.0029,-0.0002
+,eICU-CRD,full pool,Importance-weighted retraining,0.7582,0.0403,-0.0069
+,eICU-CRD,full pool,PRAM,0.8103,0.0231,-0.0014

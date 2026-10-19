@@ -1,0 +1,61 @@
+﻿Outcome,Target,Bank,Filter,Mixing weight,Change in AUROC,SD
+Acute kidney injury,MIMIC-III,1000,None,0.25,0.0047,0.0009
+,MIMIC-III,1000,Same sex,0.25,0.0065,0.0033
+,MIMIC-III,1000,Same age band,0.25,0.0027,0.0024
+,MIMIC-III,1000,Same baseline creatinine tertile,0.25,0.0041,0.0018
+,MIMIC-III,1000,Same age band and sex,0.25,0.0023,0.0039
+,MIMIC-III,5000,None,0.38,0.0087,0.0033
+,MIMIC-III,5000,Same sex,0.38,0.0085,0.0029
+,MIMIC-III,5000,Same age band,0.38,0.0093,0.0041
+,MIMIC-III,5000,Same baseline creatinine tertile,0.38,0.0107,0.0040
+,MIMIC-III,5000,Same age band and sex,0.38,0.0084,0.0048
+,MIMIC-III,full pool,None,0.39,0.0107,0.0043
+,MIMIC-III,full pool,Same sex,0.35,0.0091,0.0048
+,MIMIC-III,full pool,Same age band,0.39,0.0106,0.0023
+,MIMIC-III,full pool,Same baseline creatinine tertile,0.41,0.0112,0.0042
+,MIMIC-III,full pool,Same age band and sex,0.37,0.0093,0.0018
+,eICU-CRD,1000,None,0.20,0.0019,0.0027
+,eICU-CRD,1000,Same sex,0.20,0.0010,0.0022
+,eICU-CRD,1000,Same age band,0.20,-0.0007,0.0037
+,eICU-CRD,1000,Same baseline creatinine tertile,0.20,0.0012,0.0026
+,eICU-CRD,1000,Same age band and sex,0.20,-0.0012,0.0038
+,eICU-CRD,5000,None,0.42,0.0148,0.0056
+,eICU-CRD,5000,Same sex,0.42,0.0120,0.0062
+,eICU-CRD,5000,Same age band,0.42,0.0137,0.0060
+,eICU-CRD,5000,Same baseline creatinine tertile,0.42,0.0155,0.0072
+,eICU-CRD,5000,Same age band and sex,0.42,0.0106,0.0060
+,eICU-CRD,full pool,None,0.48,0.0196,0.0063
+,eICU-CRD,full pool,Same sex,0.45,0.0183,0.0044
+,eICU-CRD,full pool,Same age band,0.44,0.0169,0.0050
+,eICU-CRD,full pool,Same baseline creatinine tertile,0.45,0.0169,0.0055
+,eICU-CRD,full pool,Same age band and sex,0.42,0.0162,0.0053
+168 h mortality,MIMIC-III,1000,None,0.17,0.0001,0.0018
+,MIMIC-III,1000,Same sex,0.17,-0.0002,0.0015
+,MIMIC-III,1000,Same age band,0.17,-0.0010,0.0027
+,MIMIC-III,1000,Same baseline creatinine tertile,0.17,0.0001,0.0019
+,MIMIC-III,1000,Same age band and sex,0.17,-0.0036,0.0047
+,MIMIC-III,5000,None,0.13,0.0042,0.0040
+,MIMIC-III,5000,Same sex,0.13,0.0034,0.0041
+,MIMIC-III,5000,Same age band,0.13,0.0031,0.0053
+,MIMIC-III,5000,Same baseline creatinine tertile,0.13,0.0022,0.0025
+,MIMIC-III,5000,Same age band and sex,0.13,0.0023,0.0043
+,MIMIC-III,full pool,None,0.22,0.0067,0.0047
+,MIMIC-III,full pool,Same sex,0.22,0.0053,0.0014
+,MIMIC-III,full pool,Same age band,0.24,0.0058,0.0074
+,MIMIC-III,full pool,Same baseline creatinine tertile,0.27,0.0030,0.0036
+,MIMIC-III,full pool,Same age band and sex,0.27,0.0037,0.0067
+,eICU-CRD,1000,None,0.49,0.0237,0.0078
+,eICU-CRD,1000,Same sex,0.49,0.0202,0.0062
+,eICU-CRD,1000,Same age band,0.49,0.0174,0.0045
+,eICU-CRD,1000,Same baseline creatinine tertile,0.49,0.0219,0.0041
+,eICU-CRD,1000,Same age band and sex,0.49,0.0099,0.0056
+,eICU-CRD,5000,None,0.47,0.0270,0.0040
+,eICU-CRD,5000,Same sex,0.47,0.0258,0.0045
+,eICU-CRD,5000,Same age band,0.47,0.0248,0.0056
+,eICU-CRD,5000,Same baseline creatinine tertile,0.47,0.0247,0.0043
+,eICU-CRD,5000,Same age band and sex,0.47,0.0210,0.0041
+,eICU-CRD,full pool,None,0.50,0.0358,0.0051
+,eICU-CRD,full pool,Same sex,0.50,0.0339,0.0050
+,eICU-CRD,full pool,Same age band,0.50,0.0326,0.0050
+,eICU-CRD,full pool,Same baseline creatinine tertile,0.50,0.0358,0.0045
+,eICU-CRD,full pool,Same age band and sex,0.50,0.0298,0.0047

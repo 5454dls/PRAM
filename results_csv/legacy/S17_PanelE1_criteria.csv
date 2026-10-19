@@ -1,0 +1,9 @@
+﻿Outcome,Criterion,Hospitals,Median weight chosen,Standard deviation of the weight,Median change in AUROC,Hospitals improved (%),Worst hospital,"Regret against hindsight, median","Regret against hindsight, worst"
+Acute kidney injury,Fixed at 0.30,67,0.30,0.00,+0.0168,84,-0.0278,+0.0116,+0.0619
+,Median of the partners' own weights,67,0.50,0.00,+0.0263,79,-0.0813,+0.0000,+0.0813
+,Importance-weighted partner recommendation,67,0.50,0.02,+0.0263,79,-0.0813,+0.0000,+0.0813
+,Best in hindsight,67,0.50,0.18,+0.0268,87,0.0000,reference,reference
+168 h mortality,Fixed at 0.30,59,0.30,0.00,+0.0174,88,-0.0171,+0.0077,+0.0299
+,Median of the partners' own weights,59,0.50,0.00,+0.0245,90,-0.0383,+0.0000,+0.0383
+,Importance-weighted partner recommendation,59,0.50,0.02,+0.0245,90,-0.0383,+0.0000,+0.0383
+,Best in hindsight,59,0.50,0.15,+0.0245,93,0.0000,reference,reference

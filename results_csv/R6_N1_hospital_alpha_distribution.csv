@@ -1,0 +1,133 @@
+﻿fs,outcome,criterion,alpha,share_of_hospital_test_folds
+F42,AKI_168h,AUROC (rule of the main analysis),0,0.174
+F42,AKI_168h,AUROC (rule of the main analysis),0.05,0.075
+F42,AKI_168h,AUROC (rule of the main analysis),0.1,0.025
+F42,AKI_168h,AUROC (rule of the main analysis),0.15,0.035
+F42,AKI_168h,AUROC (rule of the main analysis),0.2,0.040
+F42,AKI_168h,AUROC (rule of the main analysis),0.25,0.030
+F42,AKI_168h,AUROC (rule of the main analysis),0.3,0.060
+F42,AKI_168h,AUROC (rule of the main analysis),0.35,0.050
+F42,AKI_168h,AUROC (rule of the main analysis),0.4,0.075
+F42,AKI_168h,AUROC (rule of the main analysis),0.45,0.104
+F42,AKI_168h,AUROC (rule of the main analysis),0.5,0.333
+F42,AKI_168h,log loss,0,0.045
+F42,AKI_168h,log loss,0.05,<0.03
+F42,AKI_168h,log loss,0.1,<0.03
+F42,AKI_168h,log loss,0.15,0.030
+F42,AKI_168h,log loss,0.2,0.025
+F42,AKI_168h,log loss,0.25,0.030
+F42,AKI_168h,log loss,0.3,<0.03
+F42,AKI_168h,log loss,0.35,0.045
+F42,AKI_168h,log loss,0.4,0.040
+F42,AKI_168h,log loss,0.45,0.060
+F42,AKI_168h,log loss,0.5,0.692
+F42,AKI_168h,Brier,0,0.055
+F42,AKI_168h,Brier,0.05,<0.03
+F42,AKI_168h,Brier,0.1,<0.03
+F42,AKI_168h,Brier,0.15,0.025
+F42,AKI_168h,Brier,0.2,0.035
+F42,AKI_168h,Brier,0.25,0.030
+F42,AKI_168h,Brier,0.3,<0.03
+F42,AKI_168h,Brier,0.35,0.065
+F42,AKI_168h,Brier,0.4,0.030
+F42,AKI_168h,Brier,0.45,0.075
+F42,AKI_168h,Brier,0.5,0.652
+F42,mortality_168h,AUROC (rule of the main analysis),0,0.079
+F42,mortality_168h,AUROC (rule of the main analysis),0.05,0.045
+F42,mortality_168h,AUROC (rule of the main analysis),0.1,<0.03
+F42,mortality_168h,AUROC (rule of the main analysis),0.15,0.051
+F42,mortality_168h,AUROC (rule of the main analysis),0.2,0.028
+F42,mortality_168h,AUROC (rule of the main analysis),0.25,0.051
+F42,mortality_168h,AUROC (rule of the main analysis),0.3,0.056
+F42,mortality_168h,AUROC (rule of the main analysis),0.35,0.045
+F42,mortality_168h,AUROC (rule of the main analysis),0.4,0.102
+F42,mortality_168h,AUROC (rule of the main analysis),0.45,0.073
+F42,mortality_168h,AUROC (rule of the main analysis),0.5,0.452
+F42,mortality_168h,log loss,0,0.000
+F42,mortality_168h,log loss,0.05,0.000
+F42,mortality_168h,log loss,0.1,0.000
+F42,mortality_168h,log loss,0.15,0.000
+F42,mortality_168h,log loss,0.2,0.000
+F42,mortality_168h,log loss,0.25,0.000
+F42,mortality_168h,log loss,0.3,<0.03
+F42,mortality_168h,log loss,0.35,<0.03
+F42,mortality_168h,log loss,0.4,0.028
+F42,mortality_168h,log loss,0.45,<0.03
+F42,mortality_168h,log loss,0.5,0.927
+F42,mortality_168h,Brier,0,0.000
+F42,mortality_168h,Brier,0.05,0.000
+F42,mortality_168h,Brier,0.1,0.000
+F42,mortality_168h,Brier,0.15,0.000
+F42,mortality_168h,Brier,0.2,0.000
+F42,mortality_168h,Brier,0.25,0.000
+F42,mortality_168h,Brier,0.3,0.000
+F42,mortality_168h,Brier,0.35,<0.03
+F42,mortality_168h,Brier,0.4,<0.03
+F42,mortality_168h,Brier,0.45,<0.03
+F42,mortality_168h,Brier,0.5,0.960
+F33,AKI_168h,AUROC (rule of the main analysis),0,0.229
+F33,AKI_168h,AUROC (rule of the main analysis),0.05,0.040
+F33,AKI_168h,AUROC (rule of the main analysis),0.1,0.055
+F33,AKI_168h,AUROC (rule of the main analysis),0.15,0.030
+F33,AKI_168h,AUROC (rule of the main analysis),0.2,0.035
+F33,AKI_168h,AUROC (rule of the main analysis),0.25,0.060
+F33,AKI_168h,AUROC (rule of the main analysis),0.3,0.050
+F33,AKI_168h,AUROC (rule of the main analysis),0.35,0.070
+F33,AKI_168h,AUROC (rule of the main analysis),0.4,0.100
+F33,AKI_168h,AUROC (rule of the main analysis),0.45,0.104
+F33,AKI_168h,AUROC (rule of the main analysis),0.5,0.229
+F33,AKI_168h,log loss,0,0.080
+F33,AKI_168h,log loss,0.05,<0.03
+F33,AKI_168h,log loss,0.1,0.045
+F33,AKI_168h,log loss,0.15,0.025
+F33,AKI_168h,log loss,0.2,0.040
+F33,AKI_168h,log loss,0.25,0.030
+F33,AKI_168h,log loss,0.3,0.025
+F33,AKI_168h,log loss,0.35,0.070
+F33,AKI_168h,log loss,0.4,0.065
+F33,AKI_168h,log loss,0.45,0.050
+F33,AKI_168h,log loss,0.5,0.552
+F33,AKI_168h,Brier,0,0.119
+F33,AKI_168h,Brier,0.05,0.045
+F33,AKI_168h,Brier,0.1,0.030
+F33,AKI_168h,Brier,0.15,0.035
+F33,AKI_168h,Brier,0.2,0.040
+F33,AKI_168h,Brier,0.25,0.050
+F33,AKI_168h,Brier,0.3,0.050
+F33,AKI_168h,Brier,0.35,0.075
+F33,AKI_168h,Brier,0.4,0.100
+F33,AKI_168h,Brier,0.45,0.065
+F33,AKI_168h,Brier,0.5,0.393
+F33,mortality_168h,AUROC (rule of the main analysis),0,0.277
+F33,mortality_168h,AUROC (rule of the main analysis),0.05,0.062
+F33,mortality_168h,AUROC (rule of the main analysis),0.1,0.040
+F33,mortality_168h,AUROC (rule of the main analysis),0.15,0.056
+F33,mortality_168h,AUROC (rule of the main analysis),0.2,0.062
+F33,mortality_168h,AUROC (rule of the main analysis),0.25,0.062
+F33,mortality_168h,AUROC (rule of the main analysis),0.3,0.056
+F33,mortality_168h,AUROC (rule of the main analysis),0.35,0.040
+F33,mortality_168h,AUROC (rule of the main analysis),0.4,0.051
+F33,mortality_168h,AUROC (rule of the main analysis),0.45,0.073
+F33,mortality_168h,AUROC (rule of the main analysis),0.5,0.220
+F33,mortality_168h,log loss,0,0.062
+F33,mortality_168h,log loss,0.05,0.028
+F33,mortality_168h,log loss,0.1,0.045
+F33,mortality_168h,log loss,0.15,0.040
+F33,mortality_168h,log loss,0.2,0.051
+F33,mortality_168h,log loss,0.25,0.040
+F33,mortality_168h,log loss,0.3,0.045
+F33,mortality_168h,log loss,0.35,0.056
+F33,mortality_168h,log loss,0.4,0.073
+F33,mortality_168h,log loss,0.45,0.062
+F33,mortality_168h,log loss,0.5,0.497
+F33,mortality_168h,Brier,0,0.045
+F33,mortality_168h,Brier,0.05,0.000
+F33,mortality_168h,Brier,0.1,0.000
+F33,mortality_168h,Brier,0.15,0.040
+F33,mortality_168h,Brier,0.2,<0.03
+F33,mortality_168h,Brier,0.25,0.045
+F33,mortality_168h,Brier,0.3,0.028
+F33,mortality_168h,Brier,0.35,0.034
+F33,mortality_168h,Brier,0.4,0.073
+F33,mortality_168h,Brier,0.45,0.085
+F33,mortality_168h,Brier,0.5,0.627

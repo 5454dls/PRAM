@@ -1,0 +1,65 @@
+﻿Outcome,Records each partner uses,Rule for choosing partners,Median change in AUROC,Hospitals improved (%),Worst hospital,Calibration slope,Change in net benefit at 0.20,Regret against the best eight in hindsight
+Acute kidney injury,200,Random eight,+0.0116,79,-0.0374,1.078,+0.0018,+0.0123
+,200,Eight largest partners,+0.0116,79,-0.0374,1.078,+0.0018,+0.0123
+,200,Eight nearest to the query,+0.0115,85,-0.0278,1.066,+0.0023,+0.0129
+,200,Eight closest in case mix,+0.0129,84,-0.0208,1.062,+0.0018,+0.0125
+,200,Eight most typical,+0.0129,82,-0.0238,1.070,+0.0018,+0.0126
+,200,Eight least typical,+0.0117,79,-0.0187,1.086,+0.0016,+0.0127
+,200,All twenty partners,+0.0144,81,-0.0218,1.075,+0.0018,+0.0124
+,200,Best eight in hindsight,+0.0245,96,-0.0144,1.155,+0.0024,reference
+,500,Random eight,+0.0135,82,-0.0456,1.055,+0.0018,+0.0109
+,500,Eight largest partners,+0.0124,84,-0.0615,1.045,+0.0018,+0.0137
+,500,Eight nearest to the query,+0.0162,81,-0.0258,1.047,+0.0018,+0.0105
+,500,Eight closest in case mix,+0.0138,81,-0.0186,1.056,+0.0018,+0.0124
+,500,Eight most typical,+0.0155,82,-0.0417,1.049,+0.0024,+0.0114
+,500,Eight least typical,+0.0131,79,-0.0198,1.059,+0.0024,+0.0123
+,500,All twenty partners,+0.0145,82,-0.0258,1.053,+0.0023,+0.0125
+,500,Best eight in hindsight,+0.0254,94,-0.0098,1.127,+0.0023,reference
+,"1,000",Random eight,+0.0134,82,-0.0317,1.060,+0.0019,+0.0127
+,"1,000",Eight largest partners,+0.0142,82,-0.0397,1.048,+0.0019,+0.0115
+,"1,000",Eight nearest to the query,+0.0169,79,-0.0456,1.051,+0.0019,+0.0121
+,"1,000",Eight closest in case mix,+0.0157,82,-0.0264,1.048,+0.0023,+0.0116
+,"1,000",Eight most typical,+0.0145,84,-0.0317,1.070,+0.0023,+0.0100
+,"1,000",Eight least typical,+0.0137,76,-0.0164,1.065,+0.0023,+0.0114
+,"1,000",All twenty partners,+0.0165,82,-0.0298,1.058,+0.0024,+0.0115
+,"1,000",Best eight in hindsight,+0.0271,94,-0.0094,1.120,+0.0021,reference
+,whole hospital,Random eight,+0.0154,81,-0.0278,1.050,+0.0019,+0.0130
+,whole hospital,Eight largest partners,+0.0141,79,-0.0417,1.050,+0.0019,+0.0110
+,whole hospital,Eight nearest to the query,+0.0148,84,-0.0437,1.050,+0.0023,+0.0112
+,whole hospital,Eight closest in case mix,+0.0158,82,-0.0264,1.045,+0.0018,+0.0131
+,whole hospital,Eight most typical,+0.0151,81,-0.0317,1.059,+0.0021,+0.0107
+,whole hospital,Eight least typical,+0.0138,76,-0.0186,1.061,+0.0025,+0.0133
+,whole hospital,All twenty partners,+0.0168,84,-0.0278,1.058,+0.0023,+0.0118
+,whole hospital,Best eight in hindsight,+0.0279,94,-0.0121,1.120,+0.0024,reference
+168 h mortality,200,Random eight,+0.0136,88,-0.0161,0.768,+0.0029,+0.0084
+,200,Eight largest partners,+0.0136,88,-0.0161,0.768,+0.0029,+0.0084
+,200,Eight nearest to the query,+0.0157,83,-0.0159,0.762,+0.0029,+0.0082
+,200,Eight closest in case mix,+0.0160,88,-0.0213,0.750,+0.0031,+0.0070
+,200,Eight most typical,+0.0153,88,-0.0125,0.757,+0.0031,+0.0080
+,200,Eight least typical,+0.0145,86,-0.0137,0.759,+0.0030,+0.0079
+,200,All twenty partners,+0.0152,88,-0.0119,0.755,+0.0031,+0.0077
+,200,Best eight in hindsight,+0.0214,97,-0.0046,0.776,+0.0025,reference
+,500,Random eight,+0.0160,86,-0.0293,0.753,+0.0031,+0.0073
+,500,Eight largest partners,+0.0169,88,-0.0237,0.753,+0.0026,+0.0064
+,500,Eight nearest to the query,+0.0162,85,-0.0202,0.735,+0.0031,+0.0076
+,500,Eight closest in case mix,+0.0169,90,-0.0167,0.738,+0.0031,+0.0063
+,500,Eight most typical,+0.0162,83,-0.0195,0.741,+0.0034,+0.0074
+,500,Eight least typical,+0.0172,86,-0.0262,0.762,+0.0031,+0.0065
+,500,All twenty partners,+0.0172,86,-0.0286,0.755,+0.0031,+0.0074
+,500,Best eight in hindsight,+0.0232,92,-0.0160,0.760,+0.0032,reference
+,"1,000",Random eight,+0.0180,86,-0.0153,0.755,+0.0031,+0.0074
+,"1,000",Eight largest partners,+0.0175,88,-0.0153,0.753,+0.0031,+0.0055
+,"1,000",Eight nearest to the query,+0.0184,88,-0.0146,0.742,+0.0031,+0.0063
+,"1,000",Eight closest in case mix,+0.0172,90,-0.0160,0.737,+0.0031,+0.0064
+,"1,000",Eight most typical,+0.0164,83,-0.0250,0.732,+0.0031,+0.0096
+,"1,000",Eight least typical,+0.0176,92,-0.0258,0.767,+0.0031,+0.0060
+,"1,000",All twenty partners,+0.0183,90,-0.0181,0.757,+0.0031,+0.0070
+,"1,000",Best eight in hindsight,+0.0244,92,-0.0139,0.777,+0.0031,reference
+,whole hospital,Random eight,+0.0160,86,-0.0125,0.755,+0.0033,+0.0085
+,whole hospital,Eight largest partners,+0.0158,88,-0.0105,0.737,+0.0032,+0.0064
+,whole hospital,Eight nearest to the query,+0.0165,90,-0.0105,0.737,+0.0031,+0.0061
+,whole hospital,Eight closest in case mix,+0.0173,90,-0.0146,0.732,+0.0031,+0.0070
+,whole hospital,Eight most typical,+0.0139,86,-0.0245,0.727,+0.0031,+0.0095
+,whole hospital,Eight least typical,+0.0175,88,-0.0237,0.767,+0.0031,+0.0066
+,whole hospital,All twenty partners,+0.0174,88,-0.0171,0.757,+0.0031,+0.0071
+,whole hospital,Best eight in hindsight,+0.0234,92,-0.0111,0.778,+0.0031,reference

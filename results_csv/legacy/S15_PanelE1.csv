@@ -1,0 +1,13 @@
+﻿Target attack AUC,Outcome,Cohort,Choice,Attack achieved,Change in AUROC,Share of the best gain in the grid (%)
+0.55,Acute kidney injury,MIMIC-III,"1,000 prototypes, noise 4",0.541,+0.0038,55
+0.55,Acute kidney injury,eICU-CRD,"250 prototypes, noise 8",0.550,+0.0118,87
+0.55,168 h mortality,MIMIC-III,"250 prototypes, noise 8",0.544,+0.0014,28
+0.55,168 h mortality,eICU-CRD,"250 prototypes, noise 8",0.547,+0.0276,96
+0.60,Acute kidney injury,MIMIC-III,"2,000 prototypes, noise 4",0.572,+0.0044,66
+0.60,Acute kidney injury,eICU-CRD,"500 prototypes, noise 8",0.591,+0.0124,91
+0.60,168 h mortality,MIMIC-III,"250 prototypes, no noise",0.599,+0.0027,53
+0.60,168 h mortality,eICU-CRD,"500 prototypes, noise 8",0.594,+0.0286,99
+0.70,Acute kidney injury,MIMIC-III,"1,000 prototypes, noise 8",0.660,+0.0055,81
+0.70,Acute kidney injury,eICU-CRD,"500 prototypes, no noise",0.677,+0.0134,98
+0.70,168 h mortality,MIMIC-III,"500 prototypes, no noise",0.668,+0.0036,71
+0.70,168 h mortality,eICU-CRD,"500 prototypes, no noise",0.677,+0.0289,100

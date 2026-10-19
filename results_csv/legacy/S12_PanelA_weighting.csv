@@ -1,0 +1,73 @@
+﻿Outcome,Target,Bank,Weighting,Variables,Mixing weight,Change in AUROC,SD
+Acute kidney injury,MIMIC-III,1000,Uniform,43,0.25,0.0047,0.0009
+,MIMIC-III,1000,Renal family x3,43,0.25,0.0065,0.0052
+,MIMIC-III,1000,Haemodynamic family x3,43,0.11,0.0015,0.0021
+,MIMIC-III,1000,Demographic family x3,43,0.16,0.0020,0.0030
+,MIMIC-III,1000,Renal variables only,10,0.36,-0.0192,0.0140
+,MIMIC-III,1000,Demographic and renal only,16,0.23,0.0045,0.0033
+,MIMIC-III,5000,Uniform,43,0.38,0.0087,0.0033
+,MIMIC-III,5000,Renal family x3,43,0.41,0.0124,0.0049
+,MIMIC-III,5000,Haemodynamic family x3,43,0.14,0.0026,0.0019
+,MIMIC-III,5000,Demographic family x3,43,0.35,0.0100,0.0018
+,MIMIC-III,5000,Renal variables only,10,0.45,-0.0166,0.0101
+,MIMIC-III,5000,Demographic and renal only,16,0.28,0.0061,0.0024
+,MIMIC-III,full pool,Uniform,43,0.39,0.0107,0.0043
+,MIMIC-III,full pool,Renal family x3,43,0.36,0.0139,0.0042
+,MIMIC-III,full pool,Haemodynamic family x3,43,0.25,0.0041,0.0018
+,MIMIC-III,full pool,Demographic family x3,43,0.33,0.0086,0.0024
+,MIMIC-III,full pool,Renal variables only,10,0.48,-0.0109,0.0113
+,MIMIC-III,full pool,Demographic and renal only,16,0.28,0.0077,0.0021
+,eICU-CRD,1000,Uniform,43,0.20,0.0019,0.0027
+,eICU-CRD,1000,Renal family x3,43,0.28,0.0043,0.0035
+,eICU-CRD,1000,Haemodynamic family x3,43,0.26,0.0001,0.0018
+,eICU-CRD,1000,Demographic family x3,43,0.17,-0.0020,0.0045
+,eICU-CRD,1000,Renal variables only,10,0.36,-0.0004,0.0040
+,eICU-CRD,1000,Demographic and renal only,16,0.17,-0.0020,0.0051
+,eICU-CRD,5000,Uniform,43,0.42,0.0148,0.0056
+,eICU-CRD,5000,Renal family x3,43,0.40,0.0136,0.0035
+,eICU-CRD,5000,Haemodynamic family x3,43,0.37,0.0107,0.0038
+,eICU-CRD,5000,Demographic family x3,43,0.32,0.0071,0.0029
+,eICU-CRD,5000,Renal variables only,10,0.50,-0.0030,0.0051
+,eICU-CRD,5000,Demographic and renal only,16,0.18,0.0041,0.0029
+,eICU-CRD,full pool,Uniform,43,0.48,0.0196,0.0063
+,eICU-CRD,full pool,Renal family x3,43,0.42,0.0177,0.0032
+,eICU-CRD,full pool,Haemodynamic family x3,43,0.45,0.0144,0.0061
+,eICU-CRD,full pool,Demographic family x3,43,0.47,0.0164,0.0069
+,eICU-CRD,full pool,Renal variables only,10,0.50,0.0026,0.0057
+,eICU-CRD,full pool,Demographic and renal only,16,0.38,0.0062,0.0014
+168 h mortality,MIMIC-III,1000,Uniform,43,0.17,0.0001,0.0018
+,MIMIC-III,1000,Renal family x3,43,0.08,-0.0012,0.0035
+,MIMIC-III,1000,Haemodynamic family x3,43,0.05,-0.0001,0.0010
+,MIMIC-III,1000,Demographic family x3,43,0.05,0.0005,0.0019
+,MIMIC-III,1000,Renal variables only,10,0.12,-0.0107,0.0062
+,MIMIC-III,1000,Demographic and renal only,16,0.00,0.0000,0.0000
+,MIMIC-III,5000,Uniform,43,0.13,0.0042,0.0040
+,MIMIC-III,5000,Renal family x3,43,0.10,0.0013,0.0030
+,MIMIC-III,5000,Haemodynamic family x3,43,0.05,0.0009,0.0010
+,MIMIC-III,5000,Demographic family x3,43,0.13,0.0029,0.0044
+,MIMIC-III,5000,Renal variables only,10,0.16,-0.0136,0.0086
+,MIMIC-III,5000,Demographic and renal only,16,0.01,-0.0000,0.0001
+,MIMIC-III,full pool,Uniform,43,0.22,0.0067,0.0047
+,MIMIC-III,full pool,Renal family x3,43,0.17,0.0034,0.0059
+,MIMIC-III,full pool,Haemodynamic family x3,43,0.11,0.0017,0.0012
+,MIMIC-III,full pool,Demographic family x3,43,0.19,0.0051,0.0028
+,MIMIC-III,full pool,Renal variables only,10,0.17,-0.0147,0.0092
+,MIMIC-III,full pool,Demographic and renal only,16,0.01,-0.0008,0.0017
+,eICU-CRD,1000,Uniform,43,0.49,0.0237,0.0078
+,eICU-CRD,1000,Renal family x3,43,0.33,0.0185,0.0087
+,eICU-CRD,1000,Haemodynamic family x3,43,0.30,0.0103,0.0046
+,eICU-CRD,1000,Demographic family x3,43,0.40,0.0157,0.0056
+,eICU-CRD,1000,Renal variables only,10,0.22,-0.0005,0.0025
+,eICU-CRD,1000,Demographic and renal only,16,0.15,0.0017,0.0031
+,eICU-CRD,5000,Uniform,43,0.47,0.0270,0.0040
+,eICU-CRD,5000,Renal family x3,43,0.43,0.0228,0.0064
+,eICU-CRD,5000,Haemodynamic family x3,43,0.37,0.0168,0.0052
+,eICU-CRD,5000,Demographic family x3,43,0.47,0.0207,0.0061
+,eICU-CRD,5000,Renal variables only,10,0.47,-0.0075,0.0114
+,eICU-CRD,5000,Demographic and renal only,16,0.14,0.0049,0.0040
+,eICU-CRD,full pool,Uniform,43,0.50,0.0358,0.0051
+,eICU-CRD,full pool,Renal family x3,43,0.50,0.0346,0.0046
+,eICU-CRD,full pool,Haemodynamic family x3,43,0.48,0.0274,0.0038
+,eICU-CRD,full pool,Demographic family x3,43,0.50,0.0299,0.0045
+,eICU-CRD,full pool,Renal variables only,10,0.50,-0.0062,0.0064
+,eICU-CRD,full pool,Demographic and renal only,16,0.21,0.0071,0.0026
